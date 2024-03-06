@@ -1,0 +1,10 @@
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\bin\Debug\csharp-server.exe.config
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\bin\Debug\csharp-server.exe
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\bin\Debug\csharp-server.pdb
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\bin\Debug\websocket-sharp.dll
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.AssemblyReference.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.CoreCompileInputs.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\obj\Debug\csharp-server.csproj.CopyComplete
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\obj\Debug\csharp-server.exe
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\Test applications\csharp-server\csharp-server\obj\Debug\csharp-server.pdb
