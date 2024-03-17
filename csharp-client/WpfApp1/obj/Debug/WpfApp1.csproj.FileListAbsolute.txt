@@ -1,0 +1,39 @@
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\bin\Debug\websocket-sharp.dll
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Manuj Mongia\Desktop\Anuj's Work\Sem 4\COMP72070-24W-Sec3-Project IV Mobile and Networked Environments\WpfApp16\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\bin\Debug\websocket-sharp.dll
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awajd\Downloads\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\COMP72070-Project-4-Section-3-Group-4-csharp-client-and-server\csharp-client\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
